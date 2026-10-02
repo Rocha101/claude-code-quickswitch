@@ -1,0 +1,12 @@
+{
+  "name": "quickswitch",
+  "version": "0.1.0",
+  "description": "One-click Claude account switching from the status line, powered by ccswitch",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Rocha101",
+    "url": "https://github.com/Rocha101"
+  },
+  "homepage": "https://github.com/Rocha101/claude-code-quickswitch",
+  "license": "MIT"
+}
